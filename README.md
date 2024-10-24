@@ -1,6 +1,6 @@
 # Büyük Ölçekli Balık Veri Setinde ANN ve CNN ile Görüntü Sınıflaması 🐟🦐🐠
 
-![image](https://github.com/user-attachments/assets/1616c792-c510-4d3e-bdbf-82ac3f7cd341)
+[image](https://github.com/user-attachments/assets/ad6adfe7-4454-44d5-a075-ff3243d24ec8)
 
 
 Kaggle Proje Linki: [FishDeepNet](https://www.kaggle.com/code/busraalpay/fishdeepnet/notebook)
