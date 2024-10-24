@@ -3,14 +3,14 @@
 ![image](https://github.com/user-attachments/assets/ad6adfe7-4454-44d5-a075-ff3243d24ec8)
 
 
-Kaggle Proje Linki: [FishDeepNet](https://www.kaggle.com/code/busraalpay/fishdeepnet/notebook)
+**Kaggle Proje Linki**: [FishDeepNet](https://www.kaggle.com/code/busraalpay/fishdeepnet/notebook)
 
 **Proje Açıklaması**
 
 Bu proje, büyük ölçekli bir balık veri seti kullanarak yapay sinir ağları (ANN) ve evrişimli sinir ağları (CNN) ile görüntü sınıflaması yapmayı amaçlamaktadır. Proje, farklı deniz ürünü türlerini sınıflandırmayı hedeflemekte olup, veri seti 9 farklı balık türünü içermektedir.
 
 
-İçerik
+**İçerik**
 
 	•	Çipura
 	•	Mercan
@@ -45,12 +45,12 @@ Bu model, bir giriş katmanı, bir Flatten katmanı, 4 adet yoğun katman (1024,
 
 CNN modeli, görüntülerin özelliklerini çıkarmak için evrişimli katmanlar ve ardından yoğun katmanlarla sınıflandırma yapmaktadır.
 
-Eğitim Bilgileri
+**Eğitim Bilgileri**
 
 	•	Epoch Sayısı: 5- 10
 	•	Kullanılan Donanım: GPU
 
-Model Değerlendirme
+**Model Değerlendirme**
 
 Modellerin performansını değerlendirmek için aşağıdaki metrikler kullanılacaktır:
 
@@ -62,7 +62,8 @@ Modellerin performansını değerlendirmek için aşağıdaki metrikler kullanı
 
 
 
-Kaynak
+**Kaynak**
+
 @inproceedings {ulucan2020large,
 title={Balık Segmentasyonu ve Sınıflandırması İçin Büyük Ölçekli Bir Veri Seti},
 author={Ulucan, Oguzhan ve Karakaya, Diclehan ve Turkan, Mehmet},
@@ -75,6 +76,16 @@ organization={IEEE}
 O.Ulucan, D.Karakaya ve M.Turkan.(2020) Balık segmentasyonu ve sınıflandırması için büyük ölçekli bir veri seti.
 Conf. Innovations Intell. Syst. Appli. (ASYU)
 
-Lisans
+**Projeye Katkı**
 
-Bu proje Attribution 4.0 International (CC BY 4.0) lisansı altında lisanslanmıştır.
+Projeye katkıda bulunmak isterseniz, bir dal (branch) oluşturarak değişikliklerinizi pull request ile gönderebilirsiniz.
+
+
+**Teşekkürler! 🙌**
+
+
+Bu projeye ilgi gösterdiğiniz ve katkı sağladığınız için teşekkür ederiz!
+
+
+
+
